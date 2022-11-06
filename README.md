@@ -13,14 +13,14 @@
     </p>
 
 -------
-<h1 align="center">assalamu'alaikum <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>I'm rz modder dev 😇 </h1>
+<h1 align="center">assalamu'alaikum <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>I'm rz modder dev 🔥 </h1>
 <p align="center">
-  <img src="https://c.top4top.io/p_2069qnvob1.jpg" /></>
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQkrTRGqgpmtC2wbkVZtW8gtq1B0qjtKAtNe7uT3HTPz7ILNdEpmCvA8ZFLCd8KsrGg-d4iirihhJ9xkNoz3kRCmnejN7ZigXtPUroRydnVITB3ncocscslIUIv02MzX4kRCPlEw3FQWXSZlFyZEIoinC7bpWBF4qz5ATMYTE43aoBgQ_Xn6CA3lQVAA/s500/pict.jpg','1654460qaPLgh','18840613VcCLPZ" /></>
 </p>
 
-- 👼 My name is Rezz 
-- 🗣️ I am - years old 
-- 🔭 I am not programmer
+- 👤 My name is Rezz 
+- 👤 I am - years old 
+- 👤 I am not programmer
 
 ## ```Connect with me```
 <p align="center">
