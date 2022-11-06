@@ -28,7 +28,7 @@
   <a href="https://t.me/RZMODDERDEV"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
   <a href="https://github.com/rzmodderdevv"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
   <a href="http://www.youtube.com/c/RZMODDEROFC"><img src="https://img.shields.io/youtube/c/subscribers/RZMODDEROFC?style=social" /> <br>
-  style=flat-square&label=Profile+Dilihat" />
+  <style=flat-square&label=Profile+Dilihat" />
 
 </p>
 
