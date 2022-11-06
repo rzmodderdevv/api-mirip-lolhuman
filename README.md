@@ -24,32 +24,23 @@
 
 ## ```Connect with me```
 <p align="center">
-  <a href="https://instagram.com/zeeoneofc"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/message/JBGU4J2DVYEDK1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <a href="https://www.facebook.com/profile.php?id=100015526687857"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-  <a href="https://t.me/zeeoneee"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
-  <a href="https://github.com/zeeoneofc"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
-  <a href="https://youtube.com/channel/UCdzWwbApjkyODby7_MoRYlA"><img src="https://img.shields.io/youtube/channel/subscribers/UCdzWwbApjkyODby7_MoRYlA?style=social" /> <br>
-  <a href="https://komarev.com/ghpvc/?username=zeeoneofc&color=blue&style=flat-square&label=Profile+Dilihat"><img src="https://komarev.com/ghpvc/?username=zeeoneofc&color=blue&style=flat-square&label=Profile+Dilihat" />
+
+  <a href="https://t.me/RZMODDERDEV"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
+  <a href="https://github.com/rzmodderdevv"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
+  <a href="http://www.youtube.com/c/RZMODDEROFC"><img src="https://img.shields.io/youtube/c/subscribers/RZMODDEROFC?style=social" /> <br>
+  style=flat-square&label=Profile+Dilihat" />
 
 </p>
 
-## ```How to install```
-
-[`Click Here For Tutorial`](https://youtu.be/BCY6V2PDDEA)<br>
-
-<p align="center">
-  <a href="https://youtu.be/BCY6V2PDDEA"><img src="https://telegra.ph/file/a5f2d77a88420560ed8c5.jpg" />
-</p>
 
 
 ## ```coffee ☕```
 
-- [`SAWERIA`](https://saweria.co/zeeoneofc)
+- [`SAWERIA`](https://saweria.co/RZMODDERDEV)
 
 ## ```Thanks To```
 
-- [`Zahir`]()
+- [`Rz Modder Dev`]()
 - [`Eka`]()
 - [`Loli Killer`]()
 - [`Rynz`]()
